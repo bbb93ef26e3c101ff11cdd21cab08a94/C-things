@@ -1,8 +1,8 @@
 VOID* 
 memSet(
-	IN VOID*  ptr, 
-	IN CHAR   Value, 
-	IN SIZE_T nSize
+	IN  VOID*  ptr, 
+	IN  CHAR   Value, 
+	IN  SIZE_T nSize
 )
 {
 	UCHAR* _ptr = ( UCHAR* )ptr; /* cast it (convert it from VOID to UCHAR) */
