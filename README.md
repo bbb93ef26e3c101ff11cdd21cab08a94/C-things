@@ -1,2 +1,5 @@
 # C-things
-Stuff that i made in C
+I made these C things in my free time.
+If i did a mistake please tell me.
+More things soon...
+Enjoy
